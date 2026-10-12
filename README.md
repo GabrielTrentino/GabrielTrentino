@@ -57,6 +57,18 @@ Atuação em seguros, telecom, energia e distribuição: pipelines em produção
       <p><code>ETL</code> <code>IAM</code> <code>governança</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GabrielTrentino/Rescue-Princess">Rescue-Princess</a></h3>
+      <p>Jogo de ação em primeira pessoa inspirado em <i>Fat Princess</i>, feito com Three.js. Dois castelos, classes com skills e perks, economia e equipamento. <a href="https://gabrieltrentino.github.io/Rescue-Princess/">Jogar online</a>.</p>
+      <p><code>JavaScript</code> <code>Three.js</code> <code>Game dev</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GabrielTrentino/linkedin-games-solver-generator">linkedin-games-solver-generator</a></h3>
+      <p>Gerador e jogador local de puzzles no estilo dos jogos de lógica do LinkedIn (Queens, Tango, Mini Sudoku, Zip e Patches). 100% no navegador, com seeds reproduzíveis e progresso salvo em IndexedDB. <a href="https://gabrieltrentino.github.io/linkedin-games-solver-generator/">Jogar online</a>.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Web Worker</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
