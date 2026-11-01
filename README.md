@@ -55,8 +55,8 @@ Atuação em seguros, telecom, energia e distribuição: pipelines em produção
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GabrielTrentino/JobScout">JobScout</a></h3>
-      <p>Lê o currículo (PDF ou DOCX) localmente, busca vagas recentes compatíveis e registra quais você visitou, em quais se candidatou e o link de cada uma.</p>
-      <p><code>Python</code> <code>automação</code> <code>IA opcional</code></p>
+      <p>Assistente pessoal de candidaturas que roda no computador: busca vagas, ajuda a preencher formulários, responde recrutadores e acompanha cada processo em kanban. Tudo passa pela sua aprovação, e a IA é opcional (Ollama ou Gemini).</p>
+      <p><code>Python</code> <code>SQLite</code> <code>extensão Chrome</code> <code>IA opcional</code></p>
     </td>
   </tr>
   <tr>
@@ -89,12 +89,12 @@ Jogos feitos para rodar no navegador, sem instalação. Detalhes, controles e pr
     <td width="33%" valign="top">
       <a href="JOGOS.md#resgate-da-princesa-2"><img src="assets/jogos/resgate-da-princesa-2-partida.jpg" alt="Resgate da Princesa 2"></a>
       <b><a href="https://github.com/GabrielTrentino/Rescue-Princess-2">Resgate da Princesa 2</a></b><br>
-      Versão isométrica 8 contra 8: todos começam como aldeão e viram classe ao pegar uma arma.
+      Versão isométrica 8 contra 8: todos começam como aldeão e viram classe ao pegar uma arma. <a href="https://gabrieltrentino.github.io/Rescue-Princess-2/">Jogar online</a>.
     </td>
     <td width="33%" valign="top">
       <a href="JOGOS.md#bullet--hell"><img src="assets/jogos/bullet-and-hell-partida.jpg" alt="Bullet & Hell"></a>
       <b><a href="https://github.com/GabrielTrentino/bullet-and-hell">Bullet &amp; Hell</a></b><br>
-      Sobrevivência com armas automáticas no estilo <i>Vampire Survivors</i>, tudo gerado por código.
+      Sobrevivência com armas automáticas no estilo <i>Vampire Survivors</i>, tudo gerado por código. <a href="https://gabrieltrentino.github.io/bullet-and-hell/">Jogar online</a>.
     </td>
   </tr>
   <tr>

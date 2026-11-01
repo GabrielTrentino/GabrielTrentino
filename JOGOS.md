@@ -7,8 +7,8 @@ Jogos que fiz para rodar direto no navegador, sem instalação nem conta. [← V
 | Jogo | Gênero | Tecnologia | Onde jogar |
 | --- | --- | --- | --- |
 | [Resgate da Princesa](#resgate-da-princesa) | Ação em primeira pessoa, times | JavaScript, Three.js | [Online](https://gabrieltrentino.github.io/Rescue-Princess/) |
-| [Resgate da Princesa 2](#resgate-da-princesa-2) | Ação isométrica 8 contra 8 | JavaScript, Three.js | Localmente |
-| [Bullet & Hell](#bullet--hell) | Sobrevivência com armas automáticas | JavaScript, Canvas | Localmente |
+| [Resgate da Princesa 2](#resgate-da-princesa-2) | Ação isométrica 8 contra 8 | JavaScript, Three.js | [Online](https://gabrieltrentino.github.io/Rescue-Princess-2/) |
+| [Bullet & Hell](#bullet--hell) | Sobrevivência com armas automáticas | JavaScript, Canvas | [Online](https://gabrieltrentino.github.io/bullet-and-hell/) |
 | [Bigorna](#bigorna-game-shop-3d) | Loja de RPG, crafting e combate | TypeScript, Three.js, Vite | Localmente |
 | [Oficina de lógica](#oficina-de-lógica) | Puzzles de lógica | TypeScript, React, Vite | [Online](https://gabrieltrentino.github.io/linkedin-games-solver-generator/) |
 
@@ -40,7 +40,7 @@ Ação em **primeira pessoa** inspirada em *Fat Princess*, feita com **Three.js*
 
 ## Resgate da Princesa 2
 
-[Repositório](https://github.com/GabrielTrentino/Rescue-Princess-2) · Rodar com `npm start` e abrir `http://localhost:8000`
+[Repositório](https://github.com/GabrielTrentino/Rescue-Princess-2) · [Jogar online](https://gabrieltrentino.github.io/Rescue-Princess-2/)
 
 Releitura em **3D isométrico**, 8 contra 8. Todo mundo começa como **Aldeão** e vira uma classe ao pegar a arma que a construção do time fabrica. Quem morre derruba a arma no chão, e qualquer um pode pegá-la.
 
@@ -64,7 +64,7 @@ Releitura em **3D isométrico**, 8 contra 8. Todo mundo começa como **Aldeão**
 
 ## Bullet & Hell
 
-[Repositório](https://github.com/GabrielTrentino/bullet-and-hell) · Rodar com qualquer servidor estático (`python -m http.server 8000`)
+[Repositório](https://github.com/GabrielTrentino/bullet-and-hell) · [Jogar online](https://gabrieltrentino.github.io/bullet-and-hell/)
 
 Sobrevivência com armas automáticas, inspirada em *Vampire Survivors*. Sobreviva 15 minutos à horda de mortos-vivos e derrote o Rei Lich ao amanhecer. JavaScript puro e canvas, sem dependências: sprites, cenário, efeitos sonoros e música são gerados por código.
 
